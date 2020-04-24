@@ -1,0 +1,7 @@
+{
+  "posts": [
+    { "id": 1, "name": "John", "grade": "100" },
+    { "id": 2, "name": "Jane" , "grade": "99" },
+    { "id": 3, "name": "Ana" , "grade": "98" }
+  ],
+}
